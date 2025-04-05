@@ -88,7 +88,7 @@ p {
     font-family: 'Times New Roman', Times, serif;
 }
 
-#inicio-img {
+#inicio img {
     display: grid;
     place-items: center;
     margin: 2rem auto;
