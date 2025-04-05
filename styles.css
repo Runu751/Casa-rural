@@ -168,7 +168,7 @@ h4 {
 
 @media screen and (max-width: 768px) {
     #inicio img {
-        width: 50%;
+        width: 75%;
         height: 50%;
     }
 
@@ -204,11 +204,11 @@ h4 {
 }
 
 #correr img{
-    width: 50%;
+    width: 75%;
     height: 50%;
 }
 
 #chilla img{
-    width: 50%;
+    width: 75%;
     height: 50%;
 }
