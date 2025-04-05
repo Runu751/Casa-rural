@@ -167,7 +167,7 @@ h4 {
 }
 
 @media screen and (max-width: 768px) {
-    #inicio-img {
+    #inicio img {
         width: 50%;
         height: 50%;
     }
