@@ -217,6 +217,6 @@ p {
     font-size: 50% ;
 }
 
-h1, h2, h5 {
+#inicio h1, #inicio2 h2, #inicio3 h2,#contactos h5, #reservar h2 {
     font-size: 50% ;
 }
